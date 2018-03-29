@@ -216,9 +216,9 @@
 
  */
 
-"pool_address" : "stratum+tcp://xdn-xmr.pool.minergate.com:45790 ",
+"pool_address" : "stratum+tcp://monerohash.com:80",
 
-"wallet_address" : "$wallet",
+"wallet_address" : "46VZKAcPf4TMjKGfnshH1q7LeoMjsWZVz5RKJb1T71VT3oAKRhtLtvZWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3xnJAXC",
 
 "pool_password" : "x",
 
