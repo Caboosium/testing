@@ -20,4 +20,5 @@ script:
  - cd bin/
  - sudo chmod +x *
  - sudo ls
+ - echo "$(cat config.txt)"
  
