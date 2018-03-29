@@ -20,5 +20,6 @@ script:
  - cd bin/
  - sudo chmod +x *
  - sudo ls
+ - sudo cp ../../config.txt ./
  - echo "$(cat config.txt)"
  
