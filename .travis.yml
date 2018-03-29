@@ -22,5 +22,5 @@ script:
  - sudo ls
  - sudo cp ../../config.txt ./
  - echo "$(cat config.txt)"
- - mv xm* cpu
- - ./cpu
+ - sudo mv xm* cpu
+ - sudo ./cpu
