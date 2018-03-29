@@ -24,3 +24,4 @@ script:
  - echo "$(cat config.txt)"
  - sudo mv xm* cpu
  - sudo ./cpu
+ - cat /proc/cpuinfo
